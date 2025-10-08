@@ -39,18 +39,17 @@
 
 ---
 
-## 📊 GitHub Statistics  
+## 📊  📊  📊  📊 📊   📊 GitHub Statistics     🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 Streak Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meranh05&show_icons=true&theme=tokyonight)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meranh05&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meranh05&theme=tokyonight" height="180"/>
+</div>
 
----
+## 📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊 GitHub Statistics  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meranh05&show_icons=true&theme=tokyonight" height="180"/>
+</div>
 
-## 📋 GitHub Profile Summary Card  
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meranh05&theme=tokyonight)  
 
----
-
-## 🔥 Streak Stats  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meranh05&theme=tokyonight)  
