@@ -1,12 +1,18 @@
 <!-- Banner -->
+
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=200&section=header)
 
-# 👋 Hi, I’m Nguyễn Ngọc Hân  
+
+<!-- Intro -->
+<div align="center">
+  <h3>
+    Hi, I'm Nguyễn Ngọc Hân 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h3>
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Always+Learning;Software+Engineering+Student;Aspiring+.NET+Fullstack+Web+Developer;AI+%26+Computer+Vision+Enthusiast)](https://git.io/typing-svg)
-
-
-
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend  
