@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif">
 
-<h1 align="center">Hi there 👋, I'm Hân Nguyễn Ngọc</h1>
+<h1 align="center">Hi there 👋, I'm Nguyễn Ngọc Hân</h1>
 <h3 align="center">A passionate Software Engineering student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif">
 
 - 🌱 I’m currently learning **Python, .NET MAUI, AI/ML, Web development**
-- 💬 Ask me about **Web, AI, Databases**
+- 💬 Ask me about **Web, .Net**
 - 📫 How to reach me: **nhain2508@gmail.com**
 - ⚡ Fun fact: **I enjoy coding with coffee and relax ☕**
 
