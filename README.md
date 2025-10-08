@@ -9,6 +9,6 @@
 ## 👨‍💻 About Me  
 ```yaml
 Name: Nguyễn Ngọc Hân
-Role: Software Engineering Student
+Role: Software Engineering
 Interests: Web Development, AI/ML, .NET, Databases
 Hobbies: Coffee ☕ | Music 🎶 | Coding 💻
