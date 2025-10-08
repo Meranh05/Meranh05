@@ -42,14 +42,15 @@
 ## 📊  📊  📊  📊 📊   📊 GitHub Statistics     🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 Streak Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meranh05&show_icons=true&theme=tokyonight" height="180"/>
+  <!-- GitHub Stats (all commits included) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Meranh05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+  
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meranh05&theme=tokyonight" height="180"/>
 </div>
 
-## 📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊 GitHub Statistics  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meranh05&show_icons=true&theme=tokyonight" height="180"/>
-</div>
+
+
 
 
 
