@@ -2,7 +2,6 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=200&section=header)
 
-
 <!-- Intro -->
 <div align="center">
   <h3>
@@ -11,10 +10,8 @@
   </h3>
 </div>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Always+Learning;Software+Engineering+Student;Aspiring+.NET+Fullstack+Web+Developer;AI+%26+Computer+Vision+Enthusiast)](https://git.io/typing-svg)
 ## 🛠️ Tech Stack  
-
 ### 🌐 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -39,7 +36,6 @@
 ### 🔧 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
 
 ---
 
