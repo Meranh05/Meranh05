@@ -11,8 +11,8 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Always+Learning;Software+Engineering+Student;Aspiring+.NET+Fullstack+Web+Developer;AI+%26+Computer+Vision+Enthusiast)](https://git.io/typing-svg)
-<!--  
-## 🛠️ Tech Stack  
+
+<!--  ## 🛠️ Tech Stack  
 ### 🌐 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -44,10 +44,10 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Meranh05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/> -->
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meranh05&theme=tokyonight" height="180"/>
-</div>
+</div>-->
 
 
- -->
+ 
 
 
 
