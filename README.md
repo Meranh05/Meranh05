@@ -5,7 +5,7 @@
 <!-- Intro -->
 <div align="center">
   <h3>
-    Hi, I'm Nguyễn Ngọc Hân 
+    Hi, I'm NGUYEN NGOC HAN 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h3>
 </div>
