@@ -10,7 +10,8 @@
   </h3>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Always+Learning;Software+Engineering+Student;Aspiring+.NET+Fullstack+Web+Developer;AI+%26+Computer+Vision+Enthusiast)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com? --> 
+<!-- font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Always+Learning;Software+Engineering+Student;Aspiring+.NET+Fullstack+Web+Developer;AI+%26+Computer+Vision+Enthusiast)](https://git.io/typing-svg) -->
 
 <!--  ## 🛠️ Tech Stack  
 ### 🌐 Frontend  
