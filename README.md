@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=200&section=header)
+<!--![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=200&section=header)  -->
 
 <!-- Intro -->
 <div align="center">
